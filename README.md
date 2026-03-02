@@ -1,12 +1,12 @@
 # Key Features & Implemented Technologies
-  • Corporate Network Optimization
-  • VLAN, OSPF, and Static Routing
-  • IPSec VPN and NAT
-  • ACLs and Network Security
-  • The Impact of IoT Devices on Corporate Networks
-  • Demilitarized Zone
-  • Network Infrastructure Segmentation
-  • Corporate Network Scalability
+  Corporate Network Optimization
+  VLAN, OSPF, and Static Routing
+  IPSec VPN and NAT
+  ACLs and Network Security
+  The Impact of IoT Devices on Corporate Networks
+  Demilitarized Zone
+  Network Infrastructure Segmentation
+  Corporate Network Scalability
     
 # Technical Requirements & Compatibility
 
